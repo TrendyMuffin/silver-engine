@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data[key] = value;
         });
 
-        const webhookUrl = 'https://hook.eu2.make.com/vx7vtirrifw841m8eqxbxx1wyu7bj16c';
+        const webhookUrl = 'https://hook.eu2.make.com/vs1aclwvua13mc4dag5liyx565d5cld6';
 
         fetch(webhookUrl, {
             method: 'POST',
